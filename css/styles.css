@@ -1,0 +1,29 @@
+body {
+  background-color: #D19FFA;
+  background-image: url("../img/cupcake2.png");
+  text-align: center;
+}
+
+h1 {
+  font-size: 128px;
+}
+
+p {
+  font-size: 64;
+}
+
+.flashy {
+  color: red;
+  text: italic;
+}
+
+.best {
+  font-size: 48;
+  color: blue;
+}
+
+img {
+  height: 250px;
+  width: 320px;
+  padding: 20px;
+}
